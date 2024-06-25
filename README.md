@@ -1,4 +1,5 @@
-# 👋 천(Thousand) 개의 레시피
+# 👋 미니프로젝트
+## 천(Thousand) 개의 레시피
 카테고리 별 레시피를 쉽게 공유 및 검색할 수 있는 이미지 게시판
   
 <br>
@@ -25,4 +26,8 @@
 
 <br>
 
-## 주요 이미지
+## ✔ 주요 이미지
+![thousand1](https://github.com/tpdlaos6/mini_Project/assets/143683416/6f8f661d-9df8-43f8-8a2c-cc073f3bd0e5)
+![thousand2](https://github.com/tpdlaos6/mini_Project/assets/143683416/78a52230-9d9a-4c5d-8f13-03692532de98)
+![thousand3](https://github.com/tpdlaos6/mini_Project/assets/143683416/90bc17a2-ba8b-4abd-9ea1-df6f30bb767d)
+![thousand4](https://github.com/tpdlaos6/mini_Project/assets/143683416/808d3d47-6b9e-446b-ae69-2d9d8a241670)
